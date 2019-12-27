@@ -196,7 +196,8 @@ False
 
 Use Jenkins with POLL SCM option and after artifact is generated  using ansible to push suing copy module.
 
-72. Have u done any automation like app goes down then for self healing of the app kind of the thing. 73 .Have  u written any playbook. Explain it
+72. Have u done any automation like app goes down then for self healing of the app kind of the thing. 
+73 .Have  u written any playbook. Explain it
 74. what is a dynamic inventory  in ansible?
 75.  How can you manage cloud services with ansible?
 76. How can you protect sensitive information in ansible?
